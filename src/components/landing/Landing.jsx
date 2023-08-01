@@ -3,7 +3,13 @@ import './landing.css'
 
 const Landing = () => {
   return (
-    <div>Landing</div>
+    <>
+      <header>
+        <div className='landing'>
+          <h1>WCE ART CIRCLE</h1>
+        </div>
+      </header>
+    </>
   )
 }
 

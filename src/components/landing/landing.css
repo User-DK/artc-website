@@ -1,0 +1,21 @@
+header {
+    background-image: url('../../assets/web_page.png');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+  }
+  
+  .landing {
+    height: 100vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 5rem;
+    
+  }
+  h1{
+    margin-bottom: 12rem;
+    font-size: 5rem;
+    font-weight: bolder;
+  }
+  
