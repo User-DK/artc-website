@@ -4,11 +4,11 @@ import './landing.css'
 const Landing = () => {
   return (
     <>
-      <header>
+      <div className='new'>
         <div className='landing'>
           <h1>WCE ART CIRCLE</h1>
         </div>
-      </header>
+      </div>
     </>
   )
 }

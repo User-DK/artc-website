@@ -1,8 +1,10 @@
-header {
+.new {
     background-image: url('../../assets/web_page.png');
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     overflow: hidden;
+    /* margin-top: -8rem; */
   }
   
   .landing {
@@ -13,7 +15,7 @@ header {
     margin-left: 5rem;
     
   }
-  h1{
+  .landing h1{
     margin-bottom: 12rem;
     font-size: 5rem;
     font-weight: bolder;
