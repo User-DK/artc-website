@@ -6,7 +6,6 @@ import Teams from './components/teams/Teams'
 import Events from './components/events/Events'
 import Members from './components/members/Members'
 import Staff from './components/staff/Staff'
-import Experience from './components/experience/Experience'
 import Footer from './components/footer/Footer'
 
 const App = () => {
@@ -19,7 +18,6 @@ const App = () => {
         <Events/>
         <Members/>
         <Staff/>
-        <Experience/>
         <Footer/>
     </>
   )

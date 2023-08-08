@@ -2,21 +2,22 @@
     background-image: url('../../assets/web_page.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center -120px;
     overflow: hidden;
-    /* margin-top: -8rem; */
   }
-  
+   
   .landing {
     height: 100vh;
     display: flex;
     /* justify-content: center; */
     align-items: center;
+    margin: 0;
     margin-left: 5rem;
+  
     
   }
   .landing h1{
-    margin-bottom: 12rem;
+    margin-bottom: 17rem;
     font-size: 5rem;
     font-weight: bolder;
   }
